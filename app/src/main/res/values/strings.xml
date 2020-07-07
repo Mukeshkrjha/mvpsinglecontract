@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPSingleContract</string>
+    <string name="get_price">Get Price</string>
+</resources>
